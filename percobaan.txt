@@ -4,3 +4,4 @@ Tugas Magang
 - Instalasi kabel Ethernet
 - Belajar dokumentasi framework bootstrap
 - Belajar MySQL di PMI
+- Membuat CRUD PHP
