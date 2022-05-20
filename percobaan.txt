@@ -1,0 +1,6 @@
+Tugas Magang
+- instalasi windows 7
+- menjalan Genset
+- Instalasi kabel Ethernet
+- Belajar dokumentasi framework bootstrap
+- Belajar MySQL di PMI
